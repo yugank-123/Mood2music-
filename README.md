@@ -12,5 +12,5 @@ Mood2Music is an AI-powered hybrid system that recommends songs based on your **
 
 ## 📦 Installation
 
-```bash
+``bash
 pip install -r requirements.txt
