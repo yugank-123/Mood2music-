@@ -1,0 +1,6 @@
+streamlit
+transformers
+pandas
+torch
+Pillow
+matplotlib
